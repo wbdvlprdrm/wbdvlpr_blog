@@ -1,2 +1,2 @@
 # wbdvlpr_blog
-curso GIt y Github de Platzi
+Curso Git y Github de Platzi
